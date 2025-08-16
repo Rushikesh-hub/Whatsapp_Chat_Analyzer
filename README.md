@@ -61,7 +61,7 @@ This project is a **Streamlit web app** that analyzes WhatsApp chat exports and 
    ```bash
    git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
    cd whatsapp-chat-analyzer
-````
+   ```
 
 2. **Create a virtual environment (recommended)**
 
