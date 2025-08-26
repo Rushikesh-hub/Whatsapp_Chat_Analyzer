@@ -1,5 +1,4 @@
 import streamlit as st
-<<<<<<< HEAD
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
@@ -1046,4 +1045,4 @@ if uploaded_file is not None:
     # Include sentiment analysis results in your UI
     st.title("Sentiment Analysis")
     st.write(df[['user', 'message', 'sentiment_label', 'sentiment_score']])
->>>>>>> fcfbd584046b32005c908f931ae5d9ff4a42871a
+
