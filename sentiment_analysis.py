@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 import numpy as np
 from functools import lru_cache
@@ -892,4 +891,3 @@ def perform_sentiment_analysis(df, positive_threshold=0.9):
     df['sentiment_score'] = [max(p, n) for p, n in zip(positive_probs, negative_probs)]
 
     return df
->>>>>>> fcfbd584046b32005c908f931ae5d9ff4a42871a
