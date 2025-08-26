@@ -112,4 +112,3 @@ Feel free to fork the repo and submit a pull request.
 
 💡 *Built with ❤️ using Streamlit & Hugging Face Transformers*
 
->>>>>>> fcfbd584046b32005c908f931ae5d9ff4a42871a
