@@ -1,5 +1,4 @@
 from datetime import timedelta
-<<<<<<< HEAD
 from collections import Counter
 import pandas as pd
 from urlextract import URLExtract
@@ -760,4 +759,3 @@ def sentiment_over_time(selected_user, df, window_days):
     })
 
     return sentiment_over_time_df
->>>>>>> fcfbd584046b32005c908f931ae5d9ff4a42871a
