@@ -1,6 +1,5 @@
 import re
 import pandas as pd
-<<<<<<< HEAD
 from datetime import datetime
 import numpy as np
 
@@ -406,4 +405,3 @@ def preprocess(data):
     df['period'] = period
 
     return df
->>>>>>> fcfbd584046b32005c908f931ae5d9ff4a42871a
